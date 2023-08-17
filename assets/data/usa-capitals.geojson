@@ -1,0 +1,982 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.35517288240672,
+          6.1087177490787345
+          
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Utara",
+        "name": "SMK Seberang Perak",
+        "population": 199518
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.288458680193,
+          6.099133126071853
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Utara",
+        "name": "SMK Seri Pantai",
+        "population": 32094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.42710359672964,
+          6.140485431958417
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Utara",
+        "name": "SMK Langgar",
+        "population": 1626078
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.91231950788504,
+          5.665085099212857
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Utara",
+        "name": "SMK Baling",
+        "population": 198606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.74477926789085,
+          5.518419108008007
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Utara",
+        "name": "SMK Bakai",
+        "population": 501901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.74325631022123,
+          5.700829356701851
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Utara",
+        "name": "SMK Parit Panjang",
+        "population": 704621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.37987881022033,
+          5.534810635881489
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Utara",
+        "name": "SMK Seri Muda",
+        "population": 123400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.38109172556148,
+          5.5000768287615065
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Utara",
+        "name": "SMK Gemilang",
+        "population": 37538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.38166482556115,
+          5.4485082015038975
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Utara",
+        "name": "SMK Datuk Onn",
+        "population": 191049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46116432137987,
+          5.490177932589345
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Utara",
+        "name": "SMK Pokok Sena",
+        "population": 486290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.37824569710338,
+          5.550516250296006
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Utara",
+        "name": "SMK Dato Hj Hassan Noh",
+        "population": 350395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.38266832556134,
+          5.479789833500659
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Utara",
+        "name": "SMK Teluk Air Tawar",
+        "population": 226570
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.79146269671591,
+          2.986127369048763
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Tengah",
+        "name": "SMK Jalan Bukit",
+        "population": 114868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.75167139671632,
+          3.122762613872703
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Tengah",
+        "name": "SMK Pandan Indah",
+        "population": 863002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.44765006788067,
+          3.009945052196454
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Tengah",
+        "name": "SMK Raja Mahadi",
+        "population": 217521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.83959210253919,
+          2.9529901498434605
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Tengah",
+        "name": "SMK Engku Hussain",
+        "population": 126587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.77241779671643,
+          3.148448136771729
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Tengah",
+        "name": "SMK Taman Kosas",
+        "population": 27621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.76132956788099,
+          3.113488201729554
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Tengah",
+        "name": "SMK Taman Seraya",
+        "population": 225374
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.80184786788078,
+          3.0529730930398515
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Tengah",
+        "name": "SMK Bandar Baru Sungai Long",
+        "population": 18594
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.66761584576527,
+          3.187339567185026
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Tengah",
+        "name": "SMK Segambut",
+        "population": 39321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.69835162555178,
+          3.1835725204710394
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Tengah",
+        "name": "SMK Bandar Baru Sentul",
+        "population": 685094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5413571967159,
+          2.984489954956411
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Tengah",
+        "name": "SMK Kota Kemuning",
+        "population": 116986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5081099967159,
+          2.9813157123512637
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Tengah",
+        "name": "SMK Jalan Kebun",
+        "population": 306621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7619769967164,
+          3.125107175010937
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Tengah",
+        "name": "SMK Pandan Mewah",
+        "population": 166965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9487405255486,
+          1.8475015149475311
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Selatan",
+        "name": "SMK Dato Bentara Luar",
+        "population": 42895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1513227967133,
+          1.88295723688425
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Selatan",
+        "name": "SMK Suria Perdana",
+        "population": 31429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1513227967133,
+          1.88295723688425
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Selatan",
+        "name": "SMK Suria Perdana",
+        "population": 284736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67014156787744,
+          1.4771666516295747
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Selatan",
+        "name": "SMK Dato Usman Awang",
+        "population": 54745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76395919671272,
+          1.5101975993358854
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Selatan",
+        "name": "SMK Tun Syed Nasir Ismail",
+        "population": 43019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7450137967127,
+          1.479137050487674
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Selatan",
+        "name": "SMK Sultan Ismail",
+        "population": 84964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76198986787738,
+          1.502147825246042
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Selatan",
+        "name": "SMK Taman Suria",
+        "population": 83776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.17802072554875,
+          1.9153450584968745
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Selatan",
+        "name": "SMK Datuk Menteri",
+        "population": 98251
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.66897169671275,
+          1.4916117257175228
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Selatan",
+        "name": "SMK Bandar Uda Utama",
+        "population": 464758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.69487987101523,
+          1.5061129507768904
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Selatan",
+        "name": "SMK Sri Rahmat",
+        "population": 72865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65037753904205,
+          1.5223393241356649
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Selatan",
+        "name": "SMK Taman Mutiara Rini 2",
+        "population": 879170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74077611020681,
+          1.498387606317273
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Selatan",
+        "name": "SMK St Joseph",
+        "population": 643648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.61750141037096,
+          1.5275528910734575
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Selatan",
+        "name": "SMK Taman Universiti",
+        "population": 169798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1923855812193,
+          6.038711944634853
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Timur",
+        "name": "SMK Salor",
+        "population": 49192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.37170680437366,
+          6.0782038353269865
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Timur",
+        "name": "SMK Long Yunus",
+        "population": 180393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.19683278087254,
+          6.117642560033661
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Timur",
+        "name": "SMK Wakaf Baru",
+        "population": 133114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.12805125442918,
+          6.054650575409944
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Timur",
+        "name": "SMK Kg Dangar",
+        "population": 14004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.30678782505115,
+          6.116178915398066
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Timur",
+        "name": "SMK Raja Sakti",
+        "population": 667560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.10784356791811,
+          5.342758787332254
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Timur",
+        "name": "SMK Bukit Tunggal",
+        "population": 950715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.09590702743913,
+          5.257217405131363
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Timur",
+        "name": "SMK Tun Telanai",
+        "population": 200544
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.15747486378679,
+          5.29590332586552
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Timur",
+        "name": "SMK Tengku Muhammad Ismail",
+        "population": 7484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.10043365573213,
+          5.265635333152373
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Timur",
+        "name": "SMK Padang Midin",
+        "population": 227032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.13642511155385,
+          5.31776657072542
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Timur",
+        "name": "SMK Chung Hwa Wei Sin",
+        "population": 51609
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.13609594039363,
+          6.058783242684275
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Timur",
+        "name": "SMK Kubang Bemban",
+        "population": 47929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.18755139675831,
+          6.150438905548001
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Timur",
+        "name": "SMK Berangan",
+        "population": 255214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36949666787751,
+          1.5861706471933485
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Borneo",
+        "name": "SMK Demak Baru",
+        "population": 63624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.33068512554797,
+          1.4613947270516598
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Borneo",
+        "name": "SMK Sg Tapang",
+        "population": 63624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.19494642556472,
+          6.08838021047609
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Borneo",
+        "name": "SMK St Peter Telipok",
+        "population": 63624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35959192554802,
+          1.5409939735672293
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Borneo",
+        "name": "SMK Bandar Kuching No 1",
+        "population": 63624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.09939531022282,
+          5.98768958778833
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Borneo",
+        "name": "SMK Lok Yuk Likas",
+        "population": 63624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3492664967128,
+          1.5543354730852033
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Borneo",
+        "name": "SMK Tinggi Kuching",
+        "population": 63624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1018553390581,
+          5.9830053588278345
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Borneo",
+        "name": "SMK Shan Tao",
+        "population": 63624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3188897678775,
+          1.5652393478552633
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Borneo",
+        "name": "SMK Petra Jaya",
+        "population": 63624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.13152083664784,
+          5.9813172097059555
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Borneo",
+        "name": "SMK Kolombong",
+        "population": 63624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39224059671278,
+          1.5360308237076035
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Borneo",
+        "name": "SMK Seri Setia",
+        "population": 63624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.31738712255442,
+          1.5830816956000544
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Borneo",
+        "name": "SMK Semerah Padi",
+        "population": 63624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.09965729672862,
+          5.948059522141697
+        ]
+      },
+      "properties": {
+        "state_id":88,
+        "state": "Zon Borneo",
+        "name": "SMK Taman Tun Fuad",
+        "population": 63624
+      }
+    }
+  ]
+}
